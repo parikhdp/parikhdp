@@ -73,8 +73,3 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parikhdp&layout=pie&theme=radical" alt="Dhriti Parikh's Top Languages" height="250"/>
-</p>
