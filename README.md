@@ -78,10 +78,10 @@
 <h3 align="center">📊 GitHub Insights</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parikh26&show_icons=true&theme=radical" alt="Dhriti's GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parikh26&theme=radical" alt="Dhriti's Streak Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parikhdp&show_icons=true&theme=radical" alt="Dhriti's GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parikhdp&theme=radical" alt="Dhriti's Streak Stats" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parikh26&layout=pie&theme=radical" alt="Dhriti Parikh's Top Languages" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parikhdp&layout=pie&theme=radical" alt="Dhriti Parikh's Top Languages" height="250"/>
 </p>
