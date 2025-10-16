@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhriti Parikh</h1>
-<h3 align="center">A passionate developer from India 🇮🇳</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 - 🌱 I’m currently learning **Backend Development**
 - 📫 How to reach me: **dhriti.wk@gmail.com**
@@ -74,13 +74,6 @@
 </p>
 
 ---
-
-<h3 align="center">📊 GitHub Insights</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parikhdp&show_icons=true&theme=radical" alt="Dhriti's GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parikhdp&theme=radical" alt="Dhriti's Streak Stats" height="150"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parikhdp&layout=pie&theme=radical" alt="Dhriti Parikh's Top Languages" height="250"/>
